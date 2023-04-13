@@ -1,0 +1,6 @@
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "4楼", "start": 4, "end": 6}], "prompt": "楼层"}
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "401床", "start": 6, "end": 10}], "prompt": "房间"}
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "王爷爷", "start": 11, "end": 14}], "prompt": "姓名"}
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "今天", "start": 0, "end": 2}], "prompt": "时间"}
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "普通护理", "start": 18, "end": 22}], "prompt": "护理级别"}
+{"content": "今天看了4楼401床，王爷爷老人需要普通护理，春游，看电视.", "result_list": [{"text": "春游", "start": 23, "end": 25}, {"text": "看电视", "start": 26, "end": 29}], "prompt": "活动安排"}
