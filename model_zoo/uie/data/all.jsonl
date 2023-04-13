@@ -1,0 +1,2 @@
+{"id":12,"text":"2月8日上午北京冬奥会自由式滑雪女子大跳台决赛中中国选手谷爱凌以188.25分获得金牌.","entities":[{"id":3,"label":"时间","start_offset":0,"end_offset":6},{"id":4,"label":"赛事名称","start_offset":6,"end_offset":23},{"id":5,"label":"选手","start_offset":28,"end_offset":31},{"id":6,"label":"得分","start_offset":32,"end_offset":39}],"relations":[],"Comments":[]}
+{"id":13,"text":"第十四届全运会在西安举办.","entities":[{"id":7,"label":"赛事名称","start_offset":0,"end_offset":7}],"relations":[],"Comments":[]}

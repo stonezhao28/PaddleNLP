@@ -1,0 +1,1 @@
+{"content": "第十四届全运会在西安举办.", "result_list": [{"text": "第十四届全运会", "start": 0, "end": 7}], "prompt": "赛事名称"}
