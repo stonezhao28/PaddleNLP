@@ -1,0 +1,47 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jieba = "*"
+colorlog = "*"
+colorama = "*"
+seqeval = "*"
+dill = "<0.3.5"
+multiprocess = "<=0.70.12.2"
+datasets = ">=2.0.0"
+tqdm = "*"
+paddlefsl = "*"
+sentencepiece = "*"
+huggingface-hub = ">=0.11.1"
+paddle2onnx = "*"
+flask-babel = "<3.0.0"
+visualdl = "*"
+fastapi = "*"
+uvicorn = "*"
+typer = "*"
+rich = "*"
+common = "*"
+dual = "*"
+tight = "*"
+data = "*"
+prox = "*"
+paddlepaddle = ">=2.4.1"
+paddleocr = "*"
+pre-commit = "*"
+pytest = "*"
+parameterized = "*"
+pytest-cov = "*"
+regex = "*"
+pytest-xdist = "*"
+fast-tokenizer-python = "*"
+emoji = "*"
+ftfy = "*"
+yacs = "*"
+unidecode = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
